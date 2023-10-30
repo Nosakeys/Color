@@ -14,7 +14,7 @@ btn.addEventListener("click", function () {
     background.textContent = hexagonal
     background.style.color = hexagonal
 })
-console.log(hexagonal);
+
 
 function getRandomColor(){
 return Math.floor(Math.random()* colorArr.length)
