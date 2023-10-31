@@ -2,7 +2,7 @@ const background = document.getElementById('background');
 const btn =document.querySelector("#color");
 const main=document.querySelector('.main');
 
-colorArr = [1,2,3,4,5,6,7,8,9,'A','B','C','D','E','F'];
+colorArr = [1,2,3,4,5,6,7,8,9,'A','B','C','D','E','F','G','H'];
 btn.addEventListener("click", function () {
 
     hexagonal ="#";
