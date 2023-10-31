@@ -28,7 +28,7 @@ li a {
 main {
     width: 100%;
     height: 70vh;
-    background: yellow;
+    background: blue;
     display: flex;
     flex-direction: column;
     justify-content: center;
